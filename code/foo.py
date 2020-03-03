@@ -1,4 +1,0 @@
-# foo program
-
-print("Hello")
-
